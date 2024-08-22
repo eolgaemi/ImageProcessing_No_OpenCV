@@ -1,0 +1,2 @@
+D:\C_git_repo\C_learning\Linux\Final\x64\Debug\Final.exe
+D:\C_git_repo\C_learning\그레이스케일 최종\Final\x64\Debug\Final.exe

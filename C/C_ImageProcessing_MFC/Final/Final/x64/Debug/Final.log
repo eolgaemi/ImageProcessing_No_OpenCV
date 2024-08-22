@@ -1,0 +1,19 @@
+﻿  Final_공통함수.c
+D:\YongJae\C_repos\Linux\Final\Final_공통함수.c(70,35): warning C4244: '함수': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_공통함수.c(200,51): warning C4047: '함수': 'UINT'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\YongJae\C_repos\Linux\Final\Final_공통함수.c(200,51): warning C4024: 'MessageBoxW': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+  Final_기하학처리.c
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(40,2): warning C4013: 'free_outImage_mem'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(48,2): warning C4013: 'malloc_outImage_mem'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(104,50): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(105,50): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(139,46): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(140,48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(180,54): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(181,54): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(214,46): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(215,48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(257,54): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\YongJae\C_repos\Linux\Final\Final_기하학처리.c(258,54): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Final.vcxproj -> D:\YongJae\C_repos\Linux\Final\x64\Debug\Final.exe
